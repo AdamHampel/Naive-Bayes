@@ -1,0 +1,24 @@
+__________________________ Part 1 __________________________
+
+Training Set: Training Set Accuracy with (124 examples): 74.55%
+Test Set: Test Set Accuracy: 62.58%
+_____________________________________________________________
+
+__________________________ Part 2 __________________________
+
+Training Set: Training Set Accuracy with (248 examples): 84.37%
+Test Set: Test Set Accuracy: 70.02%
+_____________________________________________________________
+
+__________________________ Part 3 __________________________
+
+Training Set: Training Set Accuracy with (372 examples): 91.18%
+Test Set: Test Set Accuracy: 72.43%
+_____________________________________________________________
+
+__________________________ Part 4 __________________________
+
+Training Set: Training Set Accuracy with (496 examples): 95.59%
+Test Set: Test Set Accuracy: 75.45%
+_____________________________________________________________
+
